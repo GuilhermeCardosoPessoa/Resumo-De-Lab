@@ -1,0 +1,13 @@
+nome da maquina VM01Lab: VirtualMachine01Lab
+Login: ssh VirtualMachine01Lab@4.174.128.71
+Senha: Gyve@lemneOp
+
+nome da maquina VM02Lab: VirtualMachine02Lab
+Login: ssh VirtualMachine02Lab@20.39.135.192
+Senha: Gyve@lemneOp
+
+nome da maquina VM03Lab: VirtualMachine03Lab
+Login: ssh VirtualMachine03Lab@20.63.89.182
+Senha: Gyve@lemneOp
+
+Link Do github: https://github.com/GuilhermeCardosoPessoa/Resumo-De-Lab/tree/main

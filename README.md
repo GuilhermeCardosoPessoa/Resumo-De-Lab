@@ -45,6 +45,11 @@ Foi aprendido:
 
    <img width="380" height="179" alt="image" src="https://github.com/user-attachments/assets/4f772224-221f-429f-82d1-386bfe71f181" />
 
+   # Teste de Rede
+
+    pingando a google pela maquina 1
+
+    <img width="476" height="168" alt="image" src="https://github.com/user-attachments/assets/cce4febf-2c82-472c-bea7-e352663489a2" />
 
 
 - Como funcionam as zonas e o porque delas serem importantes
